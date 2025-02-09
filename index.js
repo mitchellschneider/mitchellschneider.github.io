@@ -22,7 +22,7 @@ const descriptions = [
     "composer / sound design", // 2 half light
     "producer / engineer / keyboards / programmer", // 3 gpt
     "music director / sound design / programmer", // 4 snl
-    "coachella: music director / producer / sound design / programmer", // 5 coachella
+    "Coachella 2022: music director / producer / sound design / programmer", // 5 coachella
     "full cycle design and development in c++/juce of a character reverb plugin, based on an emulation of a classic hardware reverb bussed through reel to reel tape", // 6 taped spaces
     "kontakt programming for a lofi felt piano with unique tonal weight", // 7 dustbowl
     "kontakt programming for a sub bass sampled to sit perfectly in any arrangement or mix", // 8 lo
@@ -36,7 +36,8 @@ const descriptions = [
     "sweat tour: music direction for Charli XCX & Troye Sivan", // 16 sweat
     "GCDS SS25: music arrangement & editing", // 17 GCDS
     "music direction / broadcast mix supervision", // 18 SNL50
-    "music direction / programming" // 19 stgte
+    "music direction / programming", // 19 stgte
+    "67th Grammy Awards: Charli XCX music direction / broadcast mix supervision" // 20 grammys
 ];
 
 
