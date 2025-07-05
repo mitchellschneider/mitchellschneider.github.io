@@ -17,11 +17,11 @@ window.onload = () => {
 };
 
 const descriptions = [
-    "music directer / producer / sound design / programmer", // 0 crash
+    "music direction / producer / sound design / programming", // 0 crash
     "engineer / producer / sound design / keyboards / bass", // 1 secret.wav
     "composer / sound design", // 2 half light
-    "producer / engineer / keyboards / programmer", // 3 gpt
-    "music director / sound design / programmer", // 4 snl
+    "producer / engineer / keyboards / programming", // 3 gpt
+    "music direction / sound design / programming", // 4 snl
     "Coachella 2022: music director / producer / sound design / programmer", // 5 coachella
     "full cycle design and development in c++/juce of a character reverb plugin, based on an emulation of a classic hardware reverb bussed through reel to reel tape", // 6 taped spaces
     "kontakt programming for a lofi felt piano with unique tonal weight", // 7 dustbowl
@@ -37,7 +37,9 @@ const descriptions = [
     "GCDS SS25: music arrangement & editing", // 17 GCDS
     "music direction / broadcast mix supervision", // 18 SNL50
     "music direction / programming", // 19 stgte
-    "67th Grammy Awards: Charli XCX music direction / broadcast mix supervision" // 20 grammys
+    "67th Grammy Awards: Charli XCX music direction / broadcast mix supervision", // 20 grammys
+    "music direction for Kesha", // 21 kesha
+    "music direction" // 22 zara
 ];
 
 
