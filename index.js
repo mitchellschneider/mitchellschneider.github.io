@@ -36,10 +36,12 @@ const descriptions = [
     "sweat tour: music direction for Charli XCX & Troye Sivan", // 16 sweat
     "GCDS SS25: music arrangement & editing", // 17 GCDS
     "music direction / broadcast mix supervision", // 18 SNL50
-    "music direction / programming", // 19 stgte
+    "music direction / programming for Troye Sivan", // 19 stgte
     "67th Grammy Awards: Charli XCX music direction / broadcast mix supervision", // 20 grammys
     "music direction for Kesha", // 21 kesha
-    "music direction" // 22 zara
+    "music direction / programming for zara Larsson", // 22 zara
+    "additional music", // 23 the moment
+    "full cycle design and development in c++/juce of a tilt / slapback / haas effect plugin" // 24 field control
 ];
 
 
