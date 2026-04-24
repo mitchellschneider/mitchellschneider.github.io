@@ -123,13 +123,23 @@ body.music-page .grid-item img {
 
 @media screen and (max-width: 812px) {
 
-    .grid-item{
-        display: grid;
-        grid-template-columns: auto;
-        justify-content: center;
-        align-content: center;
-        align-items: center;
-    }
+    #description {
+    text-align: left;
+    font-size: 3.5vw;
+    text-justify: center;
+    animation: fadeIn 0.3s ease-in;
+}
+
+    .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2%;
+}
+
+.grid-item {
+    margin: 0; /* let gap handle spacing */
+}
     
     h1 {
         margin-top: 6%;
