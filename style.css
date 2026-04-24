@@ -78,6 +78,7 @@ a:hover {
 
 #description {
     text-align: left;
+    font-size: 0.6vw;
     text-justify: center;
     animation: fadeIn 0.3s ease-in;
 }
@@ -108,6 +109,16 @@ span {
     align-content: center;
     margin-top: 5%;
 }
+
+body.music-page .grid-item {
+  width: 150px; /* match columnWidth */
+    }
+
+body.music-page .grid-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+    }
 
 
 @media screen and (max-width: 812px) {

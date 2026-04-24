@@ -3,7 +3,7 @@ window.onload = () => {
     var elem = document.querySelector('.grid');
     var msnry = new Masonry( elem, {
       // options
-      columnWidth: 80,
+      columnWidth: window.innerWidth * 0.05, // scales with screen,
       gutter: 20,
       itemSelector: '.grid-item',
     });
@@ -41,7 +41,10 @@ const descriptions = [
     "music direction for Kesha", // 21 kesha
     "music direction / programming for zara Larsson", // 22 zara
     "additional music", // 23 the moment
-    "full cycle design and development in c++/juce of a tilt / slapback / haas effect plugin" // 24 field control
+    "full cycle design and development in c++/juce of a tilt / slapback / haas effect plugin", // 24 field control
+    "producer, music direction", //25 hdiyl
+    "music direction", // 26 zara 2026 + ms live
+    "music direction for adéla" // 27 adela
 ];
 
 
