@@ -39,13 +39,14 @@ const descriptions = [
     "music direction / programming for Troye Sivan", // 19 stgte
     "67th Grammy Awards: Charli XCX music direction / broadcast mix supervision", // 20 grammys
     "music direction for Kesha", // 21 kesha
-    "music direction / programming for zara Larsson", // 22 zara
+    "music direction / programming", // 22 zara
     "additional music", // 23 the moment
     "full cycle design and development in c++/juce of a tilt / slapback / haas effect plugin", // 24 field control
     "producer, music direction", //25 hdiyl
-    "music direction", // 26 zara 2026 + ms live
-    "music direction for adéla" // 27 adela
-];
+    "music direction", // 26 zara 2026 + ms live + troye sivan apple
+    "music direction for adéla", // 27 adela
+    "music direction / broadcast mix" // 28 mff
+    ];
 
 
 
